@@ -1,23 +1,23 @@
 {
-  "name": "dialog-all",
+  "name": "toast-vue",
   "version": "2.0.1",
-  "description": "Vue dialog原生样式的插件",
-  "main": "dialog.vue",
+  "description": "Vue 等待样式 等待提示信息",
+  "main": "toast.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "https",
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/dialog-pc"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/toast"
   }, 
   "keywords": [
     "vue",
-    "dialog"
+    "toast"
   ],
   "author": "zhanglongdream",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/dialog-pc"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/toast"
   },
   "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
 }
