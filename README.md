@@ -1,5 +1,4 @@
-# dialog 
-Vue dialog原生样式的插件<br/>
+# spinner-vue
 
 
 ```
