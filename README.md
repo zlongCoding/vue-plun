@@ -53,7 +53,7 @@ showCancelButton 是否显示取消按钮默认是true
 
 
 
- 如果有什么bug欢迎指出  [欢迎指正](https://github.com/zhanglongdream/iosSelect/issues/1)
+ 如果有什么bug欢迎指出  [欢迎指正](https://github.com/zhanglongdream/vue-plun/issues/1)
 
   
    最后帮忙来个start呗，thanks ☺☺;
