@@ -1,0 +1,24 @@
+{
+  "name": "select-ios",
+  "version": "2.0.1",
+  "description": "Vue select原生插件",
+  "main": "select.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/select-ios"
+  }, 
+  "keywords": [
+    "vue",
+    "select",
+    "option"
+  ],
+  "author": "zhanglongdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglongdream/vue-plun/issues/2"
+  },
+  "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
+}
