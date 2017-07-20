@@ -1,24 +1,24 @@
 {
-  "name": "select-ios",
-  "version": "2.0.1",
-  "description": "Vue select原生插件",
-  "main": "select.vue",
+  "name": "pagination_vue",
+  "version": "1.0.4",
+  "description": "Vue paginate原生样式的插件",
+  "main": "pagination.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "https",
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/select-ios"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/paginate"
   }, 
   "keywords": [
     "vue",
-    "select",
-    "option"
+    "paginate",
+    "pc"
   ],
   "author": "zhanglongdream",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhanglongdream/vue-plun/issues/2"
+    "url": "https://github.com/zhanglongdream/vue-plun/issues/3"
   },
   "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
 }
