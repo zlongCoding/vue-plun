@@ -1,23 +1,24 @@
 {
-  "name": "toast-vue",
-  "version": "2.0.1",
-  "description": "Vue 等待样式 等待提示信息",
-  "main": "toast.js",
+  "name": "spinner-vue",
+  "version": "1.0.0",
+  "description": "Vue 等待icon",
+  "main": "spinner.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "https",
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/toast"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/spinner"
   }, 
   "keywords": [
     "vue",
-    "toast"
+    "icon",
+    "spinner"
   ],
   "author": "zhanglongdream",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/toast"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/spinner"
   },
   "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
 }
