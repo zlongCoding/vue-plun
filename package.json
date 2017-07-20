@@ -1,8 +1,8 @@
 {
   "name": "message-reminder",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "Vue reminder提示插件",
-  "main": "select.vue",
+  "main": "message.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
