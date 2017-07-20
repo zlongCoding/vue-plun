@@ -1,24 +1,23 @@
 {
-  "name": "pagination_vue",
-  "version": "1.0.4",
-  "description": "Vue paginate原生样式的插件",
-  "main": "pagination.vue",
+  "name": "dialog-all",
+  "version": "2.0.1",
+  "description": "Vue dialog原生样式的插件",
+  "main": "dialog.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "https",
-    "url": "https://github.com/zhanglongdream/vue-plun/tree/paginate"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/dialog-pc"
   }, 
   "keywords": [
     "vue",
-    "paginate",
-    "pc"
+    "dialog"
   ],
   "author": "zhanglongdream",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhanglongdream/vue-plun/issues/3"
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/dialog-pc"
   },
   "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
 }
