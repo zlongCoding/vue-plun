@@ -1,4 +1,4 @@
-# vue-
+# vue-plun
 Vue业务插件
 
 
