@@ -9,3 +9,5 @@ Vue业务插件
 [Vue toast 提示信息](https://github.com/zhanglongdream/vue-plun/tree/toast)<br/>
 [Vue 操作延长插件](https://github.com/zhanglongdream/vue-plun/tree/vue-message)<br/>
 [Vue 图片蒙版插件](https://github.com/zhanglongdream/vue-plun/tree/enlargeImage)<br/>
+[Vue 图片放大效果](https://github.com/zhanglongdream/vue-plun/tree/imgBig)<br/>
+
