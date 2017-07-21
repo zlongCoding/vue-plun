@@ -1,0 +1,25 @@
+{
+  "name": "imgbig-pc",
+  "version": "1.0.0",
+  "description": "Vue ios select原生样式的插件",
+  "main": "imgbig.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglongdream/vue-plun.git"
+  }, 
+  "keywords": [
+    "vue",
+    "img",
+    "pc",
+    "blow up"
+  ],
+  "author": "zhanglongdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglongdream/vue-plun/issues/8"
+  },
+  "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
+}
