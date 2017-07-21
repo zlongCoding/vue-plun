@@ -1,0 +1,25 @@
+{
+  "name": "enlarge-img",
+  "version": "1.0.0",
+  "description": "Vue enlargeImage图片放大",
+  "main": "enlargeImage.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglongdream/vue-plun.git"
+  }, 
+  "keywords": [
+    "vue",
+    "enlarge",
+    "Image",
+    "large"
+  ],
+  "author": "zhanglongdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglongdream/vue-plun/issues/7"
+  },
+  "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
+}
