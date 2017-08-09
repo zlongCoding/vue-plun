@@ -1,0 +1,26 @@
+{
+  "name": "zlSwitch",
+  "version": "2.0.1",
+  "description": "Vue zlSwitch原生样式的插件",
+  "main": "zlSwitch.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/switch"
+  }, 
+  "keywords": [
+    "vue",
+    "switch",
+    "input",
+    "checkbox"
+  ],
+  "author": "zhanglongdream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglongdream/vue-plun/tree/switch"
+  },
+  "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
+}
+Contact GitHub API Training Shop Blog About

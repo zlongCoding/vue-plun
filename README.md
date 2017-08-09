@@ -1,13 +1,23 @@
-# vue-plun
-Vue业务插件
+# switch 插件
+
+> npm i zlSwitch --save
 
 
-[Vue dialog原生样式的插件](https://github.com/zhanglongdream/vue-plun/tree/dialog-pc)<br/>
-[vue翻页插件](https://github.com/zhanglongdream/vue-plun/tree/paginate)<br/>
-[Vue ios select原生样式的插件](https://github.com/zhanglongdream/vue-plun/tree/select-ios)<br/>
-[Vue spinner 等待样式](https://github.com/zhanglongdream/vue-plun/tree/spinner)<br/>
-[Vue toast 提示信息](https://github.com/zhanglongdream/vue-plun/tree/toast)<br/>
-[Vue 操作延长插件](https://github.com/zhanglongdream/vue-plun/tree/vue-message)<br/>
-[Vue 图片蒙版插件](https://github.com/zhanglongdream/vue-plun/tree/enlargeImage)<br/>
-[Vue 图片放大效果](https://github.com/zhanglongdream/vue-plun/tree/imgBig)<br/>
+![switch](img/1.gif)
 
+![switch](img/2.gif)
+
+### input checkbox 美化插件
+
+```
+  <zl-switch v-on:input="checkedInput" zlNo="no" zlYes="yes"></zl-switch>
+
+```
+
+
+ checked  首次进入的时候是否选择
+ zlNo     false的时候显示文字
+ zlYes     true的时候显示的文字
+ offColor   false的时候背景色   默认'#bfcbd9'
+ onColor     true的时候背景色   默认 '#20a0ff'
+ v-on:input   传给父组件的值
