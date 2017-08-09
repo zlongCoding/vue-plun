@@ -1,7 +1,7 @@
 {
-  "name": "zlSwitch",
+  "name": "zlswitch",
   "version": "1.0.0",
-  "description": "Vue zlSwitch原生样式的插件",
+  "description": "Vue zlswitch原生样式的插件",
   "main": "zlSwitch.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

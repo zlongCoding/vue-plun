@@ -1,6 +1,6 @@
 # switch 插件
 
-> npm i zlSwitch --save
+> npm i zlswitch --save
 
 
 ![switch](img/1.gif)
