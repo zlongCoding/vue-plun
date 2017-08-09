@@ -14,6 +14,7 @@
 
 ```
 
+```
 
  checked       首次进入的时候是否选择 <br/>
  zlNo          false的时候显示文字 <br/>
@@ -21,3 +22,4 @@
  offColor        false的时候背景色   默认'#bfcbd9' <br/>
  onColor          true的时候背景色   默认 '#20a0ff' <br/>
  v-on:input          传给父组件的值
+ ```
