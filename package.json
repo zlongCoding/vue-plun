@@ -1,6 +1,6 @@
 {
   "name": "zlSwitch",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "Vue zlSwitch原生样式的插件",
   "main": "zlSwitch.vue",
   "scripts": {
@@ -23,4 +23,3 @@
   },
   "homepage": "https://github.com/zhanglongdream/vue-plun#readme"
 }
-Contact GitHub API Training Shop Blog About
